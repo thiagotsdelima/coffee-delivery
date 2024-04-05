@@ -24,9 +24,9 @@ export default {
   },
 }
 ```
-![home](../Captura%20de%20tela%202024-04-05%20160258.png "imagem")
-![process](../Captura%20de%20tela%202024-04-05%20160343.png "imagem")
-![success](../Captura%20de%20tela%202024-04-05%20160435.png "imagem")
+![home](./src/assets/Captura%20de%20tela%202024-04-05%20160258.png "imagem")
+![process](./src/assets/Captura%20de%20tela%202024-04-05%20160343.png "imagem")
+![success](./src/assets/Captura%20de%20tela%202024-04-05%20160435.png "imagem")
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
